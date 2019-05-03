@@ -1,0 +1,32 @@
+                     CKO Code of Conduct
+
+To help provide a safe and fun environment for everyone, please read this
+document and follow all rules while connected to this public DCSS server.
+
+Users that are found to be in violation of these rules may have their account
+suspended at any time, with no warning.
+
+
+1. Be courteous to other players. Harassment will not be tolerated.
+
+2. Don't use obscene account or clan names.
+
+3. Don't use account names, clan names, or chat messages to send spam or
+   advertisements for unrelated content. Advertising your Dungeon Crawl content
+   is okay.
+
+4. Do not attempt to steal or break into user accounts that don't belong to
+   you.
+
+5. Abuse of the system is not acceptable. This includes everything from
+   denial-of-service attacks to sending spam or advertisements. Running chat
+   bots is also not permitted without prior consent from an administrator.
+   These actions can degrade the online experience for other players.
+
+
+This code of conduct was written in good faith to preserve a fun atmosphere
+and a functioning server environment, so that all players can enjoy the game.
+If you think this document can be improved, make a pull request:
+
+  https://github.com/floraline/cko_coc
+
