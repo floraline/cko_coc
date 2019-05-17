@@ -23,6 +23,9 @@ suspended at any time, with no warning.
    bots is also not permitted without prior consent from an administrator.
    These actions can degrade the online experience for other players.
 
+6. Please do not use anonymizing services to evade bans, or to engage in abuse
+   or other unkind behavior.
+
 
 This code of conduct was written in good faith to preserve a fun atmosphere
 and a functioning server environment, so that all players can enjoy the game.
